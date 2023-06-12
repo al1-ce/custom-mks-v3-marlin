@@ -4,7 +4,7 @@
 
 Refer to [original repo](https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware/) for original version of firmware.
 
-Compare to commit [af5eb01](https://github.com/al1-ce/custom-mks-v3-marlin/commit/af5eb011d08f2a2e19809e38470f678958530b29) for any changes made to original firmware. 
+[Compare to commit af5eb01](https://github.com/al1-ce/custom-mks-v3-marlin/compare/af5eb01...master) for any changes made to original firmware. 
 
 ## Features
 
